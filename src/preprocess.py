@@ -47,4 +47,4 @@ def preprocess_and_split(images, labels, test_size=0.2):
 if __name__ == "__main__":
     # Test amaçlı çalıştırma
     X, y = load_data()
-    print(f"Veri yüklendi. Toplam görsel: {len(X)}")
+    print(f"Veriler yüklendi. Toplam görsel: {len(X)}")
