@@ -3,8 +3,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../BRAINTUMOR">
       <excludeFolder url="file://$MODULE_DIR$/../BRAINTUMOR/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/../BRAINTUMOR/.venv1" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.11 (PythonProject6)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.11 (BRAINTUMOR)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
